@@ -3,7 +3,7 @@ $host = '127.0.0.1';
 $port = '3307';
 $db   = 'pnk_inmobiliaria';
 $user = 'root';
-$pass = '';
+$pass = 'Ventana$123';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;port=$port;dbname=$db;charset=$charset";
